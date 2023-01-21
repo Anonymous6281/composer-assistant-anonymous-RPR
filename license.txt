@@ -12,7 +12,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Acknowledgements: 
 
--This sofware was built in part by training on the Lakh MIDI dataset (https://colinraffel.com/projects/lmd/) (Colin Raffel. "Learning-Based Methods for Comparing Sequences, with Applications to Audio-to-MIDI Alignment and Matching". PhD Thesis, 2016.), under a CC-BY 4.0 license (https://creativecommons.org/licenses/by/4.0/).
+-This software was built in part by training on the Lakh MIDI dataset (https://colinraffel.com/projects/lmd/) (Colin Raffel. "Learning-Based Methods for Comparing Sequences, with Applications to Audio-to-MIDI Alignment and Matching". PhD Thesis, 2016.), under a CC-BY 4.0 license (https://creativecommons.org/licenses/by/4.0/).
 
 -This software was built in part by training on the SymphonyNet dataset (https://github.com/symphonynet/SymphonyNet), under an MIT license: 
 
