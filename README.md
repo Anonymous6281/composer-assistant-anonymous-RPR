@@ -5,19 +5,23 @@ Installation is a bit more involved than your average REAPER script. If you want
 
 **Installation instructions:**
 
-First, if you don't already have python 3.6 or higher installed, install it and configure REAPER to see it. (In REAPER, go to Options > Preferences > Plug-Ins > ReaScript)
+First, install REAPER (64-bit): https://www.reaper.fm/
 
-Second, install the following three libraries for your python installation: pytorch, transformers, and sentencepiece.
+Second, install a 64-bit version of python 3.6 or higher: https://www.python.org/downloads/
 
--Pytorch installation: Go to https://pytorch.org/ to get the command you need to run. You'll want the stable build for your OS, using the "Pip" package for Python (NOT Conda). If you have an NVIDIA card, it is recommended to install a CUDA version. Otherwise, install the CPU version. The CPU version will work. It's just slower. The command you use should start with something like "pip3 install torch..."
+Third, configure REAPER to see your python installation. (In REAPER, this is in the Options > Preferences > Plug-Ins > ReaScript menu)
 
--Transformers installation: Just do ``pip install transformers``
+Fourth, install the following three packages for your python installation: pytorch, transformers, and sentencepiece.
 
--Sentencepiece installation: Just do ``pip install sentencepiece``
+-Pytorch installation: Go to https://pytorch.org/ to get the command you need to run, then run this command from the command line. You'll want the stable build for your OS, using the "Pip" package for Python (NOT Conda). If you have an NVIDIA card, it is recommended to install a CUDA version. Otherwise, install the CPU version, which is a bit slower. The command you use should start with something like "pip3 install torch..."
 
-Third, download and unzip the release (https://github.com/Anonymous6281/composer-assistant-anonymous-RPR/releases/download/v1.0.0/composers-assistant-for-REAPER-v1.0.0.zip) to your REAPER scripts folder. (To find your REAPER scripts folder, from within REAPER go to Options > Show REAPER resource path in explorer/finder..., and then open the folder called Scripts.) It is highly recommended that you unzip to a folder *within* your scripts folder instead of dumping everything directly into the scripts folder, but it's up to you.
+-Transformers installation: From the command line, run ``pip install transformers``
 
-From here, you load the scripts into REAPER in the usual way: In REAPER, go to Actions > Show action list..., then click on New action > Load ReaScript..., and then select all six scripts that start with "CA_". Ignore the other files. They are just helper files that these six scripts need to run. Before you run any of the scripts, make sure you start the neural net server by running the nn_server.py file in the download.
+-Sentencepiece installation: From the command line, run ``pip install sentencepiece``
+
+Fifth, download and unzip the release (https://github.com/Anonymous6281/composer-assistant-anonymous-RPR/releases/download/v1.0.0/composers-assistant-for-REAPER-v1.0.0.zip) to your REAPER scripts folder. (To find your REAPER scripts folder, from within REAPER go to Options > Show REAPER resource path in explorer/finder..., and then open the folder called Scripts.) It is highly recommended that you unzip to a folder *within* your scripts folder instead of dumping everything directly into the scripts folder, but it's up to you.
+
+From here, you load the scripts into REAPER in the usual way: In REAPER, go to Actions > Show action list..., then click on New action > Load ReaScript..., and then open all six scripts that start with "CA_". Ignore the other files. They are just helper files that these six scripts need to run. Before you run any of the scripts, start the neural net server by running the nn_server.py file in the download.
 
 **How to cite Composer's Assistant:**
 
