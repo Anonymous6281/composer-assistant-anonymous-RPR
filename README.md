@@ -1,7 +1,7 @@
 # composers-assistant-REAPER
 Welcome to the repository for Composer's Assistant for REAPER. If you're looking for the repository for the academic version of this project instead, click here: https://github.com/Anonymous6281/composer-assistant-anonymous
 
-Installation is a bit more involved than your average REAPER script. If you want to know whether Composer's Assistant is right for you before you attempt to install it, please watch this video for audio examples and to learn how it works: https://youtu.be/Zo_nqxSZKOw
+Installation is a bit more involved than your average REAPER script. Before you attempt to install Composer's Assistant, please watch this video for audio examples and to learn how it works: https://youtu.be/Zo_nqxSZKOw
 
 **Installation instructions:**
 
