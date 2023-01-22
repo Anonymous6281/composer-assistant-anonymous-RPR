@@ -23,6 +23,10 @@ Fifth, download and unzip the release (https://github.com/Anonymous6281/composer
 
 From here, you load the scripts into REAPER in the usual way: In REAPER, go to Actions > Show action list..., then click on New action > Load ReaScript..., and then open all six scripts that start with "CA_". Ignore the other files. They are just helper files that these six scripts need to run. Before you run any of the scripts, start the neural net server by running the nn_server.py file in the download.
 
+**Note:**
+
+Composer's Assistant for REAPER was created to test the feasibility of using machine learning models in an interactive manner in the composition process. The weights in the models it uses are research artifacts, and should be treated as such.
+
 **How to cite Composer's Assistant:**
 
 Coming Soon.
