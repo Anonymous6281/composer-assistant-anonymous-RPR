@@ -21,7 +21,7 @@ Fourth, install the following three packages for your python installation: pytor
 
 -Sentencepiece installation: From the command line, run ``pip install sentencepiece``
 
-Fifth, download and unzip the release (XXXXXXXXXXX) to your REAPER scripts folder. (To find your REAPER scripts folder, from within REAPER go to Options > Show REAPER resource path in explorer/finder..., and then open the folder called Scripts.) 
+Fifth, download and unzip the release (https://github.com/Anonymous6281/composer-assistant-anonymous-RPR/releases/download/v1.0.0/composers-assistant-for-REAPER-no-models-v1.0.0.zip) to your REAPER scripts folder. (To find your REAPER scripts folder, from within REAPER go to Options > Show REAPER resource path in explorer/finder..., and then open the folder called Scripts.) 
 
 Your files are in the right place if you have files like
 
