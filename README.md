@@ -3,7 +3,7 @@ Welcome to the repository for Composer's Assistant scripts for REAPER. If you're
 
 **The code in this repository will not work without the installation of at least one finetuned model. We are not distributing finetuned models at this time. We hope that this will change in the future. However, for now, you will have to pretrain and then finetune your own model (which may take a long time) using your own midi dataset using the code in the link above before the code in this repository will work for you.**
 
-Please watch this video for audio examples and to learn how Composer's Assistant works: https://youtu.be/Zo_nqxSZKOw
+Please watch this video for audio examples and to learn how Composer's Assistant works: https://www.youtube.com/watch?v=S9KdNztChx0
 
 **Installation instructions:**
 
