@@ -31,7 +31,8 @@ at this point.
 
 STEP 6: load the scripts into REAPER in the usual way: In REAPER, go to Actions > Show action list..., then click on New action > Load ReaScript..., and then open all six scripts that start with "CA_". All other files are just helper files that these six scripts need to run. Before you run any of the scripts, start the neural net server by running the composer_assistant_nn_server.py file.
 
-**Note**
+**Note:**
+
 The models in the release were trained only on public domain and permissively-licensed MIDI files. Please see the acknowledgements, disclaimer, and license in the download.
 
 **How to cite Composer's Assistant:**
