@@ -1,7 +1,7 @@
 # composers-assistant-REAPER
 Welcome to the repository for Composer's Assistant for REAPER. 
 
-Please watch this video for audio examples and to learn how Composer's Assistant works: https://www.youtube.com/watch?v=S9KdNztChx0
+Please watch this video to learn how Composer's Assistant works: https://www.youtube.com/watch?v=S9KdNztChx0
 
 **Installation instructions:**
 
