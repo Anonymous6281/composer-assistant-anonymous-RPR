@@ -17,7 +17,7 @@ STEP 4: install the following packages for your python installation: pytorch and
 
 -Transformers installation: From the command line, run pip install transformers
 
-STEP 5: unzip the release (https://github.com/Anonymous6281/composer-assistant-anonymous-RPR/releases/download/v1.1.0/composers.assistant.v1.1.0.zip) to your REAPER scripts folder. (To find your REAPER scripts folder, from within REAPER go to Options > Show REAPER resource path in explorer/finder..., and then open the folder called Scripts.)
+STEP 5: unzip the release (https://github.com/Anonymous6281/composer-assistant-anonymous-RPR/releases/download/v1.1.1/composers.assistant.v1.1.1.zip) to your REAPER scripts folder. (To find your REAPER scripts folder, from within REAPER go to Options > Show REAPER resource path in explorer/finder..., and then open the folder called Scripts.)
 
 Your files are in the right place if you have files like
 
