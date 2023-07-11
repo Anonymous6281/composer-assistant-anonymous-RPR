@@ -1,4 +1,7 @@
 # composers-assistant-REAPER
+
+7/11/2023: This repository will no longer be updated. All future updates will be available at https://github.com/m-malandro/composers-assistant-REAPER
+
 Welcome to the repository for Composer's Assistant for REAPER. 
 
 Please watch this video to learn how Composer's Assistant works: https://www.youtube.com/watch?v=S9KdNztChx0
@@ -34,7 +37,3 @@ STEP 6: load the scripts into REAPER in the usual way: In REAPER, go to Actions 
 **Note:**
 
 The models in the release were trained only on public domain and permissively-licensed MIDI files. Please see the acknowledgements, disclaimer, and license in the download.
-
-**How to cite Composer's Assistant:**
-
-Coming Soon.
